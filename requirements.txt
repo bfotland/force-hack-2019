@@ -1,0 +1,4 @@
+pandas
+xlrd
+xlsxwriter
+tensorflow==1.14 #-gpu
