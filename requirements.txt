@@ -1,4 +1,4 @@
 pandas
 xlrd
 xlsxwriter
-tensorflow==1.15.0 #-gpu
+tensorflow==1.15.2 #-gpu
