@@ -1,4 +1,6 @@
 pandas
 xlrd
 xlsxwriter
-tensorflow==1.15.4 #-gpu
+openpyxl
+tensorflow==2.8.0
+#tensorflow-cpu==2.8.0
