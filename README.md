@@ -8,9 +8,16 @@ Download the following Excel spreadsheet to a folder named __data__:
 
 If named exactly **RealPore Por Perm Lithology data 1240 Wells Norway public.xlsx**, it will be picked up automatically when running the machine_translation.py script. Otherwise, specify the path to the dataset with the **--dataset** option.
 
+Original link seems to be dead. 
+
+The spreadsheet is also available at <https://zenodo.org/record/4419060>
+
+A version 2.0 of the data is available at <https://zenodo.org/record/4723018>
+
+
 ## Python dependencies
 
-Python 3.5+ is required.
+Tested with Python 3.9.
 
 See requirements.txt file for further dependencies
 
